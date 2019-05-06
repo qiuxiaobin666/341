@@ -1,5 +1,5 @@
 package com.tuoming.web;
 
 public class a {
-	String b = "添加的文字";
+	String b = "添加的了文字";
 }
